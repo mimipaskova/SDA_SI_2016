@@ -3,6 +3,7 @@
 * tasks
 
     Codewars - [https://www.codewars.com](https://www.codewars.com)
+    
     Topcoder - [https://www.topcoder.com/](https://www.topcoder.com/)
   
   
@@ -17,11 +18,17 @@
 
 
 # Students:
-  zshehov - link <br />
-  Nasko-Kurtakov - [repository](https://github.com/Nasko-Kurtakov) <br />
-  Alexander Iliev - [repository](https://github.com/sando22) <br />
-  GeorgeMandadzhiev <br />
-  nevenanesheva <br />
-  desislava96 <br />
-  ivokovachev <br />
-
+  zshehov - link
+  
+  Nasko-Kurtakov - [repository](https://github.com/Nasko-Kurtakov)
+  
+  Alexander Iliev - [repository](https://github.com/sando22)
+  
+  GeorgeMandadzhiev 
+  
+  nevenanesheva 
+  
+  desislava96 
+  
+  ivokovachev 
+  
