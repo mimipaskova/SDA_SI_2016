@@ -1,5 +1,6 @@
 # SDA_SI_2016
 
+<<<<<<< HEAD
 * tasks
 
     Codewars - [https://www.codewars.com](https://www.codewars.com)
@@ -17,5 +18,6 @@
 
 
 # Students:
-  zshehov - link
+  zshehov - link <br />
+  Nasko-Kurtakov - [repository](https://github.com/Nasko-Kurtakov) <br />
   Alexander Iliev - [repository](https://github.com/sando22)
