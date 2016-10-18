@@ -33,3 +33,5 @@
   ivokovachev 
   
   zorie - [repository](https://github.com/zorie/SDA_FMI.git)
+  
+  Stanislav Zmiycharov - [repository](https://github.com/GeorgeMandadzhiev/SDA-FMI-2016)
