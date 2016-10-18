@@ -24,7 +24,7 @@
   
   Alexander Iliev - [repository](https://github.com/sando22)
   
-  GeorgeMandadzhiev 
+  GeorgeMandadzhiev - [repository](https://github.com/GeorgeMandadzhiev/SDA_SI_2016)
   
   nevenanesheva 
   
