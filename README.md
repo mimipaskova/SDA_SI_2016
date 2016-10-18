@@ -32,4 +32,4 @@
   
   ivokovachev 
   
-  zorie - [repository](https://github.com/zorie/SDA_FMI.git)
+  Ivan Darpatov - [repository](https://github.com/ivaninDarpatov/SDA__SI_16.git)
