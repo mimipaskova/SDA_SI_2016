@@ -1,6 +1,5 @@
 * Notation - [link1](http://web.mit.edu/16.070/www/lecture/big_o.pdf) 
-
-			[link2](http://www.informatika.bg/lectures/complexity)
+	[link2](http://www.informatika.bg/lectures/complexity)
 			
 			
 	* for
@@ -17,7 +16,7 @@
 
 * Homework notation for:
 	
-	* Finite-state machine - (разпознаване на дума от краен автомат)
+	* Finite-state machine - (СЂР°Р·РїРѕР·РЅР°РІР°РЅРµ РЅР° РґСѓРјР° РѕС‚ РєСЂР°РµРЅ Р°РІС‚РѕРјР°С‚)
 	* Dijkstra
 	* Kruskal
 	* 2 more popular algorithms
