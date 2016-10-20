@@ -22,7 +22,7 @@
   
   Nasko-Kurtakov - [repository](https://github.com/Nasko-Kurtakov)
   
-  Alexander Iliev - [repository](https://github.com/sando22)
+  Alexander Iliev - [repository](https://github.com/sando22/SDA_SI_2016)
   
   GeorgeMandadzhiev - [repository](https://github.com/GeorgeMandadzhiev/SDA_SI_2016)
   
