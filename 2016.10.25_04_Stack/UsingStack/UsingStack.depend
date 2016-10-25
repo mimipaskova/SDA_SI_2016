@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477221419 source:c:\mimi\su\sda\sda_si_2016\2016.10.25_04_stack\usingstack\main.cpp
+	<iostream>
+	<stack>
+	<deque>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477380575 source:c:\mimi\su\magistratura\up\ip_si_2016\2016.10.13_basics\iteratedatastructures\main.cpp
+	<iostream>
+	<vector>
+
