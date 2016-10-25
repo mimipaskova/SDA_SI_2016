@@ -18,7 +18,7 @@
 
 
 # Students:
-  zshehov - link
+  zshehov - [repository](https://github.com/zshehov/SDA_SI_2016)
   
   Nasko-Kurtakov - [repository](https://github.com/Nasko-Kurtakov)
   
