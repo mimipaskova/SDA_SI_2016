@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477391326 source:c:\mimi\su\magistratura\up\ip_si_2016\2016.10.13_basics\decimaltobinary\main.cpp
+	<iostream>
+	<stack>
+

@@ -14,6 +14,7 @@ int main()
     d.push_back(5);
     d.push_back(6);
 
+
     cout<<d.size()<<endl;
     for(int i=0;i<d.size(); i++) {
         cout<<d[i];
