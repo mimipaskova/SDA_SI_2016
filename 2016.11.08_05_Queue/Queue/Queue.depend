@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1478598493 source:c:\users\grade\documents\sda_mariapaskova\sda_si_2016\queue\main.cpp
+	<iostream>
+	<queue>
+
