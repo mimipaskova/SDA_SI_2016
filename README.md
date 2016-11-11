@@ -33,3 +33,9 @@
   ivokovachev 
   
   Ivan Darpatov - [repository](https://github.com/ivaninDarpatov/SDA__SI_16.git)
+  
+  Stanislav Zmiycharov - [repository](https://github.com/GeorgeMandadzhiev/SDA-FMI-2016)
+  
+  yoanamancheva - [repository](https://github.com/yoanamancheva)
+  
+  sabidjurina - [repository](https://github.com/sabidjurina)
