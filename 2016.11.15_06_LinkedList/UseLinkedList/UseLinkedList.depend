@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479202986 source:c:\users\grade\documents\sda_mariapaskova\sda_si_2016\2016.11.15_06_linkedlist\uselinkedlist\main.cpp
+	<iostream>
+	<list>
+	<iterator>
+
