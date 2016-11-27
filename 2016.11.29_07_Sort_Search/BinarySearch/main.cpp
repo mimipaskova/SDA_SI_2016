@@ -22,8 +22,8 @@ int binarySearch(int x, int beginn, int endd) {
 
 int main()
 {
-    int size = 10;
-    for(int i = 0; i<10; i++) {
+    int sizee = 10;
+    for(int i = 0; i<sizee; i++) {
         arr[i] = i+10;
     }
     cout<< binarySearch(10, 0, 10)<<endl;
