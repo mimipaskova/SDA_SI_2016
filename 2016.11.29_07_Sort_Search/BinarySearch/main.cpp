@@ -6,15 +6,15 @@ int arr[100];
 
 int binarySearch(int x, int beginn, int endd) {
     int centerEl = arr[(beginn + endd)/2];
-    if(beginn + 1 == endd) {
-        return -1;
-    }
     if(x == centerEl) {
         return (beginn + endd) /2;
     }
+    if(beginn + 1 == endd) {
+        return -1;
+    }
 
     if(x < centerEl) {
-        binarySearch(x, beginn, (beginn + endd) /2 + 1 );
+        binarySearch(x, beginn, (beginn + endd) /2 );
     } else {
         binarySearch(x, (beginn + endd)/2 , endd);
     }
