@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480370862 source:c:\mimi\su\sda\sda_si_2016\2016.11.29_07_sort_search\selectionsort\main.cpp
+	<iostream>
+	<stdlib.h>
+
